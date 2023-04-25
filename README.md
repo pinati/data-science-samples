@@ -1,1 +1,1 @@
-# data-science-samples
+Repo with sample of data science notebooks.
